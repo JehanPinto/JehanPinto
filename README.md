@@ -3,7 +3,7 @@
 I'm a passionate Full Stack Developer and Software Engineer from Gampaha, currently pursuing my studies with a focus on innovative software solutions. I love building user-focused applications and exploring new technologies. Welcome to my GitHub profile 😄
 
 <hr>
-<img align='right' src='images/video (2).mp4' height='300'/>
+<img align='right' src='images/video (2).gif' height='300'/>
 
 #### About Me
 - 🔭 **Current Role:** Full Stack Developer & Software Engineer  
