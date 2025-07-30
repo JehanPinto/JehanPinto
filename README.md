@@ -2,6 +2,8 @@
 
 I'm a passionate Full Stack Developer and Software Engineer from Gampaha, currently pursuing my studies with a focus on innovative software solutions. I love building user-focused applications and exploring new technologies. Welcome to my GitHub profile 😄
 
+![Profile Views](https://komarev.com/ghpvc/?username=JehanPinto&color=blueviolet&style=flat-square)
+
 <hr>
 <img align='right' src='images/video (2).gif' height='300'/>
 
@@ -31,10 +33,10 @@ I'm a passionate Full Stack Developer and Software Engineer from Gampaha, curren
 
 A full-stack counseling platform connecting patients with certified counselors for both online and in-person sessions.
 
-- 🚀 Spearheaded deployment workflows using Vercel and managed CI/CD pipelines via GitHub Actions
-- 🔐 Handled secure configuration of environment variables, database connectivity, and token-based auth with JWT
-- ☁️ Automated cloud backup for MongoDB Atlas and implemented monitoring/logging practices
-- 💬 Collaborated on real-time chat system, session booking, and dashboard optimization
+- 🚀 Spearheaded deployment workflows using Vercel and managed CI/CD pipelines via GitHub Actions  
+- 🔐 Handled secure configuration of environment variables, database connectivity, and token-based auth with JWT  
+- ☁️ Automated cloud backup for MongoDB Atlas and implemented monitoring/logging practices  
+- 💬 Collaborated on real-time chat system, session booking, and dashboard optimization  
 
 **Technologies:** Next.js, TypeScript, MongoDB, JWT, Vercel, GitHub Actions
 
@@ -42,8 +44,6 @@ A full-stack counseling platform connecting patients with certified counselors f
 
 ### 📊 GitHub Stats
 <div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=JehanPinto&color=9cf&style=flat-square)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JehanPinto&show_icons=true&hide_border=true&count_private=true&theme=buefy&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
 
@@ -70,8 +70,8 @@ I'm a passionate software developer with experience in full-stack web developmen
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jehan-pinto-026bb9302/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:judepinto73@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jehan-pinto-026bb9302/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:judepinto73@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JehanPinto)
 
 </div>
@@ -81,17 +81,3 @@ I'm a passionate software developer with experience in full-stack web developmen
 <div align="center">
   <em>"Building the future, one line of code at a time"</em>
 </div>
-<!--
-**JehanPinto/JehanPinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
